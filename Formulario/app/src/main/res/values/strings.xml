@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Formulario</string>
+    <string name="hint_nombre">Nombre completo</string>
+    <string name="hint_telefono">Teléfono</string>
+    <string name="hint_fecha">Fecha nacimiento</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_descripcion">Descripción Contacto</string>
+    <string name="tv1">Nombre:</string>
+    <string name="tv2">Fecha de nacimiento:</string>
+    <string name="tv3">Teléfono:</string>
+    <string name="tv4">Email:</string>
+    <string name="tv5">Descripción:</string>
+    <string name="btn_siguiente">Siguiente</string>
+    <string name="btn_fecha">Seleccionar Fecha</string>
+    <string name="tv_confirmar">Confirmar Datos</string>
+    <string name="btn_editar">Editar Datos</string>
+</resources>
